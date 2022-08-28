@@ -1,0 +1,141 @@
+.aboutus-header{
+
+ background-image: url(../images/about_us_header.png);
+}
+
+.about-us-column{
+  padding: 7px;
+}
+.about-us-sub-heading{
+  color: #8092A0;
+  margin:2% 0;
+}
+.about-us-digi-exp-img {
+    margin: 10% 0 0 10%;
+}
+.specialize-left{
+  padding: 5% 2% 5% 7%;
+}
+.specialize-image-size{
+  width:85px;
+  height:85px;
+}
+
+.about-us-specialize-heading {
+  color: #bed7e4;
+  line-height: 1.08349;
+  font-weight: 600;
+  letter-spacing: -.003em;
+  font-size: 2rem;
+}
+.color-grey{
+  color:grey !important;
+}
+.approach-heading {
+    font-size: 48px !important;
+    line-height: 1.08349;
+    font-weight: 200;
+    letter-spacing: -.003em;
+    font-size: 1rem;
+}
+.heading-text-services {
+    font-size: 35px !important;
+    line-height: 1.08349;
+    font-weight: 400;
+    letter-spacing: -.003em;
+    font-size: 1rem;
+}
+
+.button-blue{
+    background: none;
+    border-radius: 10px;
+    background-color: #026FA5;
+    color: white;
+    font-size: 1rem !important;
+    padding: 10px 28px;
+}
+.button-white{
+    background: none;
+    border-radius: 10px;
+    background-color: white;
+    color: #026FA5;
+    font-size: 1rem !important;
+    padding: 10px 28px;
+    border: 2px solid #026FA5;
+}
+
+.salesforce-service{
+  background-color: blueviolet;
+  margin: 10px 60px;
+  color:white;
+  padding:10px 25px;
+}
+
+.Service-salesforce{
+    list-style-type: disclosure-closed; color: red;
+    font-size: small;
+    text-align: left;
+    margin-left: 1%;
+}
+.icon-pe-salesforce {
+    width: 25%;
+    float: right;
+    margin-left: 37%;
+}
+.heading-text-whyus {
+    color: #026FA5;
+    font-size: 20px !important;
+    line-height: 2;
+    font-weight: 500;
+    letter-spacing: -.003em;
+}
+.service-whyus{
+    list-style-type: disclosure-closed;
+    color: red;
+    font-size: small;
+    text-align: left;
+    margin-left: 1%;
+line-height: 2;
+}
+.service-whyus-lispan{
+  color:grey;
+}
+.whyus-section-image{
+  width:100%;
+}
+.height-full{
+  height:100%;
+}
+
+@media only screen and (max-width: 768px) {
+.salesforce-service {
+    margin: 10px 0%;
+}
+}
+
+.service-bgrd-scale{
+    position: relative;
+    z-index: 10;
+    opacity:1;
+}
+
+ul.Salesforce-Service-bar-left {
+    cursor: pointer;
+    line-height: 50px;
+    font-size: 1.4rem;
+    margin-top: 16%;
+    margin-left: -6%;
+    list-style: none;
+}
+.left-services-list.active{
+  color:white;
+}
+
+.text-spec{
+  text-align: justify;
+  margin-left: 3%;
+}
+
+.for-list{
+  margin-left: 3%;
+}

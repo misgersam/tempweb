@@ -1,0 +1,21 @@
+.contact-card{
+    background-color: rgb(251 252 253);
+    padding: 20px 10px;
+    box-shadow: 6px 2px 5px #1c4d6329;
+    margin: 15px 0 10px;
+    text-decoration: none;
+    height: auto;
+    min-height: calc(100% - 25px);
+    display: block;
+}
+
+.icon-contact{
+    color: #000066;
+    
+}
+
+.text-content{
+    font-size: 22px;
+    font-weight: normal;
+    margin-bottom: 10px;
+}

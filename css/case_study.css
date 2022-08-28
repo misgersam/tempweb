@@ -1,0 +1,142 @@
+
+
+.services-column{
+  margin: auto;
+  display: table;
+  text-align: center;
+  padding: 7px;
+}
+
+.heading-text-blog {
+    color: #026FA5;
+    font-size: 48px !important;
+    line-height: 1.08349;
+    font-weight: 400;
+    letter-spacing: -.003em;
+    font-size: 1rem;
+}
+
+.bold-text{
+  font-weight: 700;
+}
+
+.button-blue{
+    background: none;
+    border-radius: 10px;
+    background-color: #026FA5;
+    color: white;
+    font-size: 1rem !important;
+    padding: 10px 28px;
+    margin-top: 15px;
+}
+.button-white{
+    background: none;
+    border-radius: 10px;
+    background-color: white;
+    color: #026FA5;
+    font-size: 1rem !important;
+    padding: 10px 28px;
+    border: 2px solid #026FA5;
+}
+
+.service-blog{
+    list-style-type: disclosure-closed;
+    color: red;
+    font-size: small;
+    text-align: left;
+    margin-left: 1%;
+    line-height: 2;
+}
+.service-blog-lispan{
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    font-weight: normal;
+    line-height: 2;
+
+}
+
+.solution-text{
+  font-size: 18px;
+  color: rgb(169, 165, 165);
+  text-decoration: none;
+  list-style: none;
+  font-weight: normal;
+  line-height: 2;
+
+}
+
+.solution-text-section{
+  margin-top: 2%
+}
+
+.blog-section-image{
+  width:100%;
+}
+.height-width-full{
+  height:100%;
+}
+.center-items{
+  margin: auto;
+}
+.left-div{
+  float:left;
+}
+.left-div-main-blog{
+  float:left;
+  margin: 8% 11% 0px 11%;
+}
+.left-div-suituation{
+  float:left;
+  margin: 10% 2% 0 18%;
+}
+.right-div{
+  float:right;
+}
+.solution-left-div{
+  height: 500px;
+    width: 50%;
+}
+.solution-right-div{
+  margin-top: 3%;
+}
+.benifits-left-div{
+  padding: 5% 0% 0% 5%;
+}
+.justify-text {
+  text-align: justify;
+  text-justify: inter-word;
+}
+@media only screen and (max-width: 768px) {
+  .salesforce-service {
+      margin: 10px 0%;
+  }
+  .blog-main-row{
+    padding-left: 1%;
+  }
+  .height-width-full{
+    height:100%;
+    width:100%;
+  }
+  .blog-main-row{
+    height:100%;
+  }
+  .solution-left-div {
+    height: 500px;
+    width: 100%;
+}
+}
+.sub-heading {
+    COLOR: GREY;
+    FONT-SIZE: 18PX;
+}
+
+.head-situation{
+  margin-top: 5%;
+}
+
+.height-width-full-2{
+  height: 402px;
+
+}
